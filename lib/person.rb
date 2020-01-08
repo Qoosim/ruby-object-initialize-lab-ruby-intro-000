@@ -8,3 +8,6 @@ class Person
   end
   
 end
+
+cassy = Person.new("Qoosim")
+cassy.name
