@@ -12,3 +12,7 @@ class Dog
     @breed
   end
 end
+
+bk = Dog.new("Wisdom")
+bk.name
+bk.breed
