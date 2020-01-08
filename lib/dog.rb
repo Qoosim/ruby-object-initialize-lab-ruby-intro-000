@@ -13,6 +13,6 @@ class Dog
   end
 end
 
-bk = Dog.new("Wisdom", "beak")
+bk = Dog.new
 bk.name
 bk.breed
